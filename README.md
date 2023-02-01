@@ -1,2 +1,1 @@
-# blackfridayEDA
-An Exploratory Data Analysis on a Black Friday Shopping Dataset using Python.
+{"date":"2023-02-01T21:54:32+05:30"}
